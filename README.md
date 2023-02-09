@@ -3,7 +3,7 @@ Dating Site
 
 [![Build Status](https://travis-ci.org/mdenoronha/dating-app.svg?branch=master)](https://travis-ci.org/mdenoronha/dating-app)
 
-A milestone project displaying capabilities in HTML, CSS, Javascript, Pythodn, the Django framework.</br>
+A milestone project displaying capabilities in HTML, CSS, Javascript, Python, the Django framework.</br>
 The project is a website which allows users to create accounts, edit profiles and search and engage with other users.</br>
 The project makes use of Bootstrap framework for front end styling and functionality.</br>
 
